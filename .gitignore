@@ -1,0 +1,15 @@
+package-lock.json
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+.env.dev
+.env.prod
+coverage
+coverage.json
+typechain
+typechain-types
+
+tmp
